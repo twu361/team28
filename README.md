@@ -6,7 +6,7 @@ The repo is meant to store all of our code in the cloud and provide our teammate
 
 We do not plan to store any data here, those should will instead be stored in our cloud database (TBD).
 
-We should follow a simple [feature branch workflow] (https://www.atlassian.com/git/tutorials/comparing-workflows/feature-branch-workflow)
+We should follow a simple [feature branch workflow](https://www.atlassian.com/git/tutorials/comparing-workflows/feature-branch-workflow)
 To keep things simple, I recommend we each prefix our branch names with our firstname and lastname initials, then followed by the content we are working on (example: tw_readme1)
 
 For now we should feel free to commit whatever we want into this repo, but as we move on from exploratory data analysis into data curation, statistical modeling + visualization, we should start have at least 1 other team member review and approve our pull requests.
